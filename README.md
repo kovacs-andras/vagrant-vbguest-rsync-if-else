@@ -13,5 +13,5 @@ or
   - `ssh` \
 to the box.
 
-My CentOS7 template should be self-explanatory. \
+My Red Hat Enterprise Linux 8 template should be self-explanatory. \
 The owner/group part is optional.
